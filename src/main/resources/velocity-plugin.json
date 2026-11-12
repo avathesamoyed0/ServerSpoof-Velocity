@@ -1,0 +1,9 @@
+{
+  "id": "paperspoof",
+  "name": "PaperSpoof",
+  "version": "1.0.0",
+  "description": "Spoofs server brand and version sent to clients",
+  "authors": [],
+  "dependencies": [],
+  "main": "dev.ava.paperspoof.PaperSpoof"
+}
